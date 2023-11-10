@@ -5,4 +5,4 @@ filme = {
 }
 
 for key in filme.keys():
-    print(f"{key['nome']}")
+    print(f"-> {key}")
